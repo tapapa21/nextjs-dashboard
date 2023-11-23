@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'YourFontName';
+  src: url('/fonts/playfairdisplay/webfonts/playfair-display-v15-latin-700.woff2') format('woff2'),
+       url('/fonts/playfairdisplay/webfonts/playfair-display-v15-latin-700.woff') format('woff');
+  /* Add other font-face properties like font-weight, font-style if needed */
+}
+
+.YourFontName {
+	font-family: 'YourFontName';
+}
